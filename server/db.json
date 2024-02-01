@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "user_name": "Nguyễn Thị Vân",
+      "gender": 1,
+      "dateOfBirth": "13/12/2023",
+      "address": "Láng Hạ, Hà Nội",
+      "email": "nvquyan@gmail.com",
+      "password": "1234567",
+      "id": "8660"
+    },
+    {
+      "id": "2141",
+      "user_name": "Nguyễn Mạnh Dương",
+      "gender": 0,
+      "dateOfBirth": "12/12/2023",
+      "address": "Thanh Xuân, Hà Nội",
+      "email": "nmduong@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "c5ef",
+      "user_name": "Quý",
+      "gender": "1",
+      "dateOfBirth": "2024-01-08",
+      "address": "Hà Nội",
+      "email": "quy@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "c5d2",
+      "user_name": "UY",
+      "gender": "0",
+      "dateOfBirth": "2024-01-08",
+      "address": "Hà Nội",
+      "email": "uy@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
